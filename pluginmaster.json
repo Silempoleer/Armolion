@@ -6,7 +6,7 @@
         "Description": "Improves aspects of the battle system with action stacks (like MOAction) and various QoL settings.",
         "Changelog": "",
         "InternalName": "ReAction",
-        "AssemblyVersion": "1.1.6.3",
+        "AssemblyVersion": "1.1.6.0",
         "RepoUrl": "https://github.com/UnknownX7/ReAction",
         "ApplicableVersion": "any",
         "CategoryTags": [
@@ -17,13 +17,13 @@
         "ImageUrls": [
             ""
         ],
-        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkInstall": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/master/plugins/ReAction/latest.zip",
+        "DownloadLinkTesting": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/UnknownX7/DalamudPluginRepo/raw/43eb1580a90b33b300941a88ffcab11fa1752cf8/plugins/ReAction/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1651004777"
+        "LastUpdate": "1650083513"
     },
     {
         "Author": "UnknownX",
